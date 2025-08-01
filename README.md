@@ -1,3 +1,9 @@
+## Workshop Attendees
+Thank you for registering for this Workshop.  
+If you need to cancel, please do so earlier rather than later to give others a chance to register.
+
+## Ticket Cancellation and No-Show Policy:
+If you need to cancel your reservation, please contact us by email at qcl@cmc.edu at least 24 hours prior to the event. A prompt cancellation will help us contact the next person on the waitlist. In case of 2 or more no-shows (without cancellation), you will lose your privilege to take our free workshops during the semester.
 #  Description:
 This hands-on workshop introduces participants to GIT, a powerful version control system widely used in software development. Designed for beginners, the session covers essential GIT concepts, including repository setup, branching, merging, and collaborative workflows. Participants will gain practical experience in tracking file changes, managing repositories, and implementing best practices for seamless team collaboration. The workshop will utilize GitHub Web and GitHub Desktop to provide a user-friendly introduction, equipping attendees with the foundational skills needed to confidently work with version control systems.
 
@@ -166,4 +172,3 @@ Happy collaborating! 🎉
 
 
 # Past dates
-
