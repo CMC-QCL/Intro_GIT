@@ -20,9 +20,10 @@ This hands-on workshop introduces participants to GIT, a powerful version contro
 - Code review and merging
 
 ## Pre-requisites:
-Internet use: Introductory level
-GirHub account
-GitHub desktop: Installed
+Internet use: Introductory level<br>
+GitHub account access<br>
+GitHub desktop: Installed<br>
+Optional: GitKraken, IDE (eg. PyCharm, VisualStudio)
 
 ## Participants:
 7C Students, Faculty and Staff
