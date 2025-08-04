@@ -21,7 +21,7 @@ This hands-on workshop introduces participants to GIT, a powerful version contro
 
 ## Pre-requisites:
 Internet use: Introductory level<br>
-GitHub account access<br>
+GitHub account access (Use this same email to register for the workshop or let the moderator know your GitHub email for the workshop)<br>
 GitHub desktop: Installed<br>
 Optional: GitKraken, IDE (eg. PyCharm, VisualStudio)
 
