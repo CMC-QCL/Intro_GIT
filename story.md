@@ -16,6 +16,8 @@ Cadie encounters something unexpected and begins investigating what it means.
 
 A problem emerges that prevents Cadie from simply returning to normal. They must make a difficult choice or overcome an obstacle.
 
+Cadie finds herself in a completly new world where she can't find her way back home. She wanders around and passes through a parkour to reach the all and wise alien that has all the answers. 
+
 ### 5. Dialogue and Relationships
 
 Cadie speaks with another important character. Their conversation reveals information, establishes their relationship, or creates disagreement.
