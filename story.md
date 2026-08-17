@@ -27,6 +27,7 @@ Show Cadie's private thoughts and feelings as they process what has happened and
 ### 7. Technology or Invention
 
 Introduce a fictional device, invention, discovery, or unusual mechanism that becomes important to the story.
+A magic wand is found hidden inside a tree trunk. It grants 7 wishes each hour. 
 
 ### 8. Escalation
 
